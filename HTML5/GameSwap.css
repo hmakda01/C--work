@@ -1,0 +1,57 @@
+﻿body {
+    background-color:burlywood;
+}
+header {
+    border:solid;
+    text-align:center;
+}
+h1 {
+    color:aqua;
+}
+h2 {
+    font-style:italic;
+}
+article {
+    border-style: solid;
+    border-color: inherit;
+    border-width: medium;
+    position:fixed;
+    width:50%;
+    height:60%;
+    top:20%;
+    right:41%;
+}
+#Form1 {
+    border:solid;
+    position:fixed;
+    width:15%;
+    height:60%;
+    top:20%;
+    left:80%;
+    text-align:center;
+}
+.MainTable {
+    border:solid;
+    position:absolute;
+    top:10%;
+    left:5%;
+
+
+}
+Image {
+    resize:both;
+    width:100px;
+    height:100px;
+}
+#EnterSwap {
+    position:fixed;
+    top:45%;
+    left:10%;
+    width:30%;
+    height:50%;
+    
+}
+
+
+
+   

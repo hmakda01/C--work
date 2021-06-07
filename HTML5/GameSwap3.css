@@ -1,0 +1,28 @@
+﻿body {
+    background-color: burlywood;
+}
+
+header {
+    border: solid;
+    text-align: center;
+}
+
+h1 {
+    color: aqua;
+}
+
+h2 {
+    font-style: italic;
+}
+form {
+    text-align:center;
+    border: solid;
+    border-color: inherit;
+    border-width: medium;
+    position: fixed;
+    width: 30%;
+    height: 40%;
+    top: 25%;
+    right: 41%;
+}
+

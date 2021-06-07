@@ -1,0 +1,46 @@
+﻿body {
+    background-color:aqua;
+}
+header {
+    border:dotted;
+    text-align: center;
+    resize:both;
+    width:59%;
+    height:100px;
+}
+
+h1 {
+    color: darkgreen;
+}
+
+h2 {
+    font-style: italic;
+}
+
+article {
+    border: solid;
+    position:absolute;
+    width: 33%;
+    height: 4%;
+    top: 19%;
+    right: 66%;
+    color:darkblue;
+}
+
+form {
+    border: solid;
+    position: absolute;
+    width: 17%;
+    height: 51%;
+    top: 30%;
+    left: 33%;
+    color:darkblue;
+}
+input {
+    text-align:center;
+}
+img {
+    width:26%;
+    height:50%;
+    margin-top:6%;
+}
